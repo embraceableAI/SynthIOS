@@ -1,0 +1,5 @@
+datasets
+openai
+tqdm
+qdrant-client
+huggingface_hub
