@@ -29,13 +29,13 @@ The SynthIOS pipeline consists of multiple functional blocks:
 ## 📂 Project Structure
 ```
 .
-├── SynthIOS_Notebook-Guide.ipynb       # Jupyter Notebooks for using and customizing the pipeline
-├── SynthIOS.py         # Python script for automating data generation
-├── utils.py            # utility Functions for Data-Handling & Generation
-├── prompt_templates.py            # The Prompt-Templates used for generation of Reasoning Samples & Solutions
-├── requirements.txt          # Requirements to run the script and notebook
-├── .env             # Configuration file for API keys and settings
-├── README.md        # This documentation
+├── SynthIOS_Notebook-Guide.ipynb      # Jupyter Notebooks for using, understanding and customizing the pipeline
+├── SynthIOS.py                        # Python script for automating data generation
+├── utils.py                           # utility Functions for Data-Handling & Generation
+├── prompt_templates.py                # The Prompt-Templates used for generation of Reasoning Samples & Solutions
+├── requirements.txt                   # Requirements to run the script and notebook
+├── .env                               # Configuration file for API keys and settings
+├── README.md                          # This documentation
 ```
 
 ## 🎓 Usage
